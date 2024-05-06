@@ -1,7 +1,7 @@
 import os
 LLM_TYPE = os.getenv("LLM_TYPE") or "Ollama_mistral:latest"
-OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL") or "http://knight.simpragma.com:11081"
-openai_api_key = os.getenv("OPENAI_API_KEY") or "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"
+OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL") or ""
+openai_api_key = os.getenv("OPENAI_API_KEY") or ""
 
 if os.getenv('top_p'):
     top_p = float(os.getenv('top_p'))
