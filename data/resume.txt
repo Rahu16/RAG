@@ -1,0 +1,230 @@
+Below is my latest resume given
+
+Hasibul Mondal
++91-8116282819 · hasibulmondal1612@gmail.com· www.linkedin.com/in/hasibulmondal/
+G. Ramaiah Layout, Hebbal Kempepura, Hebbal, Bangalore, 560024
+ABOUT
+Around 2.5 years of experienced AI Software Engineer worked on building and upgrading multilingual
+Voice and Chat bots using Generative AI, Machine Learning and NLP. Have an experience with deploying
+ML based applications with high scalability using Docker and K8s. Well Proficient with Python, Pandas,
+Pytorch, Langchain and many ML based Libraries. Good on Building Back-end Applications with Flask,
+FastAPI and experienced with Docker, Kubernates, Linux Based Servers and Git.
+KEY SKILLS
+Generative AI
+Large Language Models
+SpeechToText
+TextToSpeech
+Entity Extraction
+Pandas
+Pytorch
+Machine Learning
+Natural Language Processing
+Deep Learning
+PROFESSIONAL EXPERIENCE
+Simpragma Solutions
+AI Software Engineer
+Python
+SQL
+Linux
+Kubernates
+Redis
+Docker
+Flask
+Metabase
+Postgresql
+FastAPI
+Project Management
+Effective Leadership
+Client Interaction
+Decision Making
+Conflict Resolution
+December 2021 - Present
+Language Model Optimization:
+Finetuned Speech To Text models in various languages (Hindi, English, Telugu, Tamil, Kannada) using
+pretrained models (Whisper, Wav2Vec, DeepSpeech), achieving real-time CPU inference at scale.
+Voice Cloning and TTS Enhancement:
+Fine-tuned XTTS for voice cloning in English and Hindi, leveraging Coqui TTS framework to introduce
+new appealing voices.
+Chatbot Development:
+Developed a Customer Support Query chatbot for FAQs by using RAG with Llama2-7B-Chat LLM with
+Private Data, deployed the quantized model as an API which is getting used in production
+Contributed on creating customized chatbot platform
+Collection Voice Bot Creation:
+Designed, Developed, and Delivered an End to End Scalable Outbound Collection Voice Bot with high
+scalability, achieving 80% recovered accuracy from NPA customers, now actively used to collect money
+from lakhs of people
+Model Optimization:
+Optimized Whisper Large, Medium, and Small Speech To Text models using various pipelines
+(CTranslate2, Faster-Whisper, TensorRT) with int-8 and float16 compute types, achieving sub-1-second
+response times with minimal resources.
+Scalable Voice Bot Architecture:
+Contributed to making all components of a voice bot architecture scalable, enabling seamless usage of
+the entire end-to-end application by hundreds of thousands of users daily.
+AWS Proficiency:
+Proficient in AWS services, including instance creation, network-level rule setup, static IP assignment,
+and server deployment. Experienced with AWS S3 integration, storage creation, and multi-channel
+interaction.
+Backend Development:
+Developed multiple Flask applications for automating tasks such as scheduling phone calls, logging to S3,
+generating links, and sending SMS and email notifications.
+Application Deployment and Infrastructure Management:
+Deployed technology-based applications (Flask, Node, React) using Docker, Kubernetes, and Apache2 at
+scale. Configured and managed databases and cache servers including PostgreSQL, Redis, and MongoDB.
+Capgemini
+Software Engineer
+May 2021 - November 2021
+Built a Backend Spring Boot Java Application for Health Care Diagnostic Centre
+Designed a demo Web Page using IBM BPMEDUCATION
+Bachelor of Technology
+Computer Science & Engineering
+Aliah University : 2016-2020
+Kolkata, India
+HOBBIES
+Playing & Watching Cricket, Listening Music,
+Cooking
+LANGUAGES
+English : Read , Write & Speak (Professional)
+Bengali : Read , Write & Speak (Native)
+Hindi : Read & Speak (Intermediate)
+CERTIFICATIONS
+Deep Learning Masters from iNeuron.ai
+Deep Learning Specialization from DeepLearning.ai
+Fundamental Data Analysis and Visualization Tools in Python
+from Udemy
+Statistics for Data Science using Python from Udemy
+Machine Learning With Python from WebSkitters Academy
+Python Programming completed from Elahe Technologies
+Algorithms and Data Structures from Elahe Technologies
+
+
+
+
+
+
+*** Here Are the set of questions generated from my resume****
+------------------------------------------------------------------
+Q: What are your key skills?
+A: My key skills include Generative AI, Large Language Models, SpeechToText, TextToSpeech, Entity Extraction, Pandas, Pytorch, Machine Learning, Natural Language Processing, and Deep Learning.
+Q: What is your professional experience?
+A: I have been working as an AI Software Engineer at Simpragma Solutions since December 2021, where I focus on Language Model Optimization, Voice Cloning and TTS Enhancement, Chatbot Development, Collection Voice Bot Creation, Model Optimization, Scalable Voice Bot Architecture, AWS Proficiency, Backend Development, and Application Deployment and Infrastructure Management.
+Q: Could you describe your experience in model optimization?
+A: I have optimized Whisper Large, Medium, and Small Speech To Text models using various pipelines such as CTranslate2, Faster-Whisper, and TensorRT with int-8 and float16 compute types. This optimization achieved sub-1-second response times with minimal resources.
+Q: What projects have you worked on at Simpragma Solutions?
+A: At Simpragma Solutions, I have worked on projects such as Finetuning Speech To Text models in various languages, Voice Cloning and TTS Enhancement, developing a Customer Support Query chatbot, creating an End to End Scalable Outbound Collection Voice Bot, and contributing to making all components of a voice bot architecture scalable.
+Q: What is your experience with AWS?
+A: I am proficient in AWS services, including instance creation, network-level rule setup, static IP assignment, and server deployment. I have experience with AWS S3 integration, storage creation, and multi-channel interaction.
+Q: Can you describe your experience in backend development?
+A: I have developed multiple Flask applications for automating tasks such as scheduling phone calls, logging to S3, generating links, and sending SMS and email notifications.
+Q: What was your role at Capgemini?
+A: At Capgemini, I worked as a Software Engineer where I built a Backend Spring Boot Java Application for a Health Care Diagnostic Centre and designed a demo Web Page using IBM BPM.
+Q: What certifications do you hold?
+A: I hold certifications in Deep Learning Masters from iNeuron.ai, Deep Learning Specialization from DeepLearning.ai, Fundamental Data Analysis and Visualization Tools in Python from Udemy, Statistics for Data Science using Python from Udemy, Machine Learning With Python from WebSkitters Academy, and Python Programming completed from Elahe Technologies.
+
+Q: What languages are you proficient in?
+A: I am proficient in English (read, write, and speak at a professional level), Bengali (read, write, and speak at a native level), and Hindi (read and speak at an intermediate level).
+Q: Could you describe your role as an AI Software Engineer at Simpragma Solutions?
+A: As an AI Software Engineer at Simpragma Solutions, I focus on building and upgrading multilingual Voice and Chat bots using Generative AI, Machine Learning, and NLP. I have experience with deploying ML-based applications with high scalability using Docker and Kubernetes.
+Q: What have been your achievements at Simpragma Solutions?
+A: Some of my achievements include finetuning Speech To Text models in various languages to achieve real-time CPU inference at scale, fine-tuning XTTS for voice cloning in English and Hindi, developing a Customer Support Query chatbot for FAQs, and designing, developing, and delivering an End to End Scalable Outbound Collection Voice Bot with high scalability.
+Q: How do you ensure the scalability of your applications?
+A: I contribute to making all components of a voice bot architecture scalable, enabling seamless usage of the entire end-to-end application by hundreds of thousands of users daily. Additionally, I have experience deploying technology-based applications using Docker, Kubernetes, and Apache2 at scale.
+Q: What is your experience with Python frameworks?
+A: I am proficient in building back-end applications with Flask and FastAPI. I have also worked with other Python frameworks such as Pandas and Pytorch for machine learning and data analysis tasks.
+Q: Can you describe your experience with project management and client interaction?
+A: In my role at Simpragma Solutions, I have been involved in project management, effective leadership, client interaction, decision making, and conflict resolution. I have successfully managed projects and communicated with clients to ensure project requirements are met.
+Q: What was the focus of your education at Aliah University?
+A: At Aliah University, I pursued a Bachelor of Technology in Computer Science & Engineering. My education provided me with a strong foundation in computer science principles and programming.
+Q: How do you stay updated with the latest trends in AI and technology?
+A: I stay updated with the latest trends in AI and technology by taking relevant courses and certifications, participating in online communities, attending workshops and conferences, and reading research papers and articles.
+Q: Could you elaborate on your experience with model deployment and infrastructure management?
+A: In my role, I have deployed technology-based applications using Docker, Kubernetes, and Apache2 at scale. I have also configured and managed databases and cache servers including PostgreSQL, Redis, and MongoDB.
+Q: How do you ensure the quality and accuracy of your machine learning models?
+A: I ensure the quality and accuracy of my machine learning models through rigorous testing, validation, and optimization processes. This includes fine-tuning models, evaluating performance metrics, and iterating on the models based on feedback and real-world data.
+Q: Can you discuss your experience with speech-to-text and text-to-speech technologies?
+A: I have worked on fine-tuning speech-to-text models in various languages such as Hindi, English, Telugu, Tamil, and Kannada using pretrained models like Whisper, Wav2Vec, and DeepSpeech. Additionally, I have experience in enhancing text-to-speech (TTS) capabilities, including voice cloning and TTS enhancement using frameworks like Coqui TTS.
+Q: What are your responsibilities regarding the development of chatbots?
+A: My responsibilities include developing chatbots for various purposes such as customer support queries and collection voice bots. This involves designing, developing, and deploying chatbot solutions using state-of-the-art AI and NLP techniques, such as RAG with Llama2-7B-Chat LLM.
+Q: How do you handle challenges in your projects, especially when it comes to optimization and scalability?
+A: When faced with challenges in optimization and scalability, I approach them systematically by analyzing the root cause, researching potential solutions, and collaborating with teammates. I leverage my expertise in tools like Docker, Kubernetes, and AWS to implement scalable and efficient solutions.
+Q: What motivated you to pursue certifications in Deep Learning, Data Analysis, and Machine Learning?
+A: I pursued certifications in Deep Learning, Data Analysis, and Machine Learning to deepen my understanding of these fields and stay competitive in the industry. These certifications have equipped me with valuable skills and knowledge that I apply in my work.
+Q: How do you prioritize tasks and manage your time effectively in a fast-paced work environment?
+A: In a fast-paced work environment, I prioritize tasks based on their importance and urgency, utilizing techniques such as the Eisenhower Matrix. I also regularly communicate with stakeholders to ensure alignment and adjust priorities as needed to meet deadlines.
+Q: Can you provide an example of a challenging project you worked on and how you overcame obstacles?
+A: One challenging project I worked on involved optimizing speech-to-text models for real-time inference at scale. To overcome obstacles, I conducted extensive research, experimented with different techniques, and collaborated closely with my team to implement solutions that met performance requirements.
+Q: How do you keep your technical skills sharp and up-to-date outside of work?
+A: Outside of work, I participate in online courses, tutorials, and coding challenges to keep my technical skills sharp and up-to-date. I also engage with the AI and tech community through forums, meetups, and conferences to stay informed about the latest developments.
+Q: Can you explain your experience with entity extraction and its importance in NLP?
+A: Entity extraction involves identifying and classifying entities (such as names, dates, locations) within text. In Natural Language Processing (NLP), it's crucial for tasks like information retrieval, sentiment analysis, and named entity recognition. I have experience implementing entity extraction techniques to improve the accuracy and relevance of NLP models.
+Q: How do you approach the development of multilingual AI solutions?
+A: Developing multilingual AI solutions requires understanding the linguistic nuances of each language and adapting models accordingly. I leverage pretrained models and fine-tuning techniques to create language-specific models for tasks like speech-to-text, text-to-speech, and chatbots. Continuous evaluation and refinement ensure optimal performance across languages.
+Q: What strategies do you use to optimize model inference times while maintaining accuracy?
+A: To optimize model inference times, I employ techniques like model quantization, model pruning, and using specialized hardware accelerators like GPUs or TPUs. Additionally, I optimize model architectures and leverage frameworks that support efficient inference, ensuring a balance between speed and accuracy.
+Q: How do you approach building scalable architectures for AI applications?
+A: Building scalable architectures involves designing systems that can handle increasing loads and user demands without sacrificing performance. I focus on modular design, microservices architecture, and containerization to facilitate scalability. Continuous monitoring and optimization ensure that the architecture adapts to changing requirements.
+Q: Can you discuss your experience with project management and leadership?
+A: In my role as an AI Software Engineer, I have led projects from inception to deployment, managing timelines, resources, and stakeholder expectations. I employ agile methodologies for effective project management, facilitating collaboration, communication, and adaptation to changing priorities.
+Q: How do you ensure the security and privacy of AI-based applications, especially when dealing with sensitive data?
+A: Security and privacy are paramount when dealing with sensitive data in AI applications. I implement encryption, access controls, and secure communication protocols to protect data in transit and at rest. Additionally, I adhere to best practices for data anonymization and compliance with regulations like GDPR.
+Q: Could you describe a time when you had to resolve a conflict within a team or with a client?
+A: In a previous project, there was a disagreement between team members regarding the choice of technology stack. I facilitated a discussion to understand each person's perspective, identified common ground, and ultimately reached a consensus that satisfied everyone while meeting project requirements.
+Q: How do you ensure the reliability and maintainability of AI systems in production?
+A: I prioritize code quality, documentation, and automated testing to ensure the reliability and maintainability of AI systems. Regular code reviews, version control, and deployment pipelines help catch issues early and streamline updates and maintenance tasks.
+Q: Can you discuss your experience with continuous integration and continuous deployment (CI/CD) in AI development?
+A: In AI development, CI/CD practices are essential for streamlining the development lifecycle and ensuring rapid iteration and deployment of models. I implement CI/CD pipelines for model training, testing, and deployment, enabling automated validation and rollouts while maintaining reliability and scalability.
+Q: Can you provide your full name?
+A: My full name is Hasibul Mondal.
+Q: Do you have any nicknames or preferred names?
+A: No, I go by my full name, Hasibul Mondal.
+Q: What is your date of birth?
+A: My date of birth is not provided in the resume. Would you like me to include it?
+Educational Background:
+Q: Where did you complete your Bachelor of Technology?
+A: I completed my Bachelor of Technology at Aliah University.
+Q: What was your major in college?
+A: I majored in Computer Science & Engineering.
+Q: When did you graduate from Aliah University?
+A: I graduated from Aliah University in the year 2020.
+Address:
+Q: What is your current address?
+A: My current address is G. Ramaiah Layout, Hebbal Kempepura, Hebbal, Bangalore, 560024.
+Q: Are you open to relocation for job opportunities?
+A: Yes/No.
+Q: What is your phone number?
+A: My phone number is +91-8116282819.
+Q: What is your email address?
+A: My email address is hasibulmondal1612@gmail.com.
+Q: Do you have a LinkedIn profile?
+A: Yes, my LinkedIn profile is www.linkedin.com/in/hasibulmondal/.
+Skills:
+Q: How would you rate your proficiency in Python?
+A: I am proficient in Python.
+Q: What experience do you have with Docker and Kubernetes?
+A: I have experience deploying and managing applications using Docker and Kubernetes.
+Q: Can you provide examples of projects where you utilized Pandas and Pytorch?
+A: I have used Pandas for data analysis tasks and Pytorch for building machine learning models in various projects.
+Q: What is your experience with Flask and FastAPI?
+A: I have developed back-end applications using Flask and FastAPI.
+Q: How comfortable are you with Linux-based servers?
+A: I am comfortable working with Linux-based servers for application deployment and management.
+Q: Can you describe a challenging project you worked on at Simpragma Solutions?
+A: One challenging project I worked on at Simpragma Solutions involved optimizing the Whisper Speech To Text models for various languages to achieve real-time CPU inference at scale.
+Q: How do you ensure the accuracy and reliability of the ML-based applications you deploy?
+A: I ensure the accuracy and reliability of ML-based applications by rigorous testing, validation, and monitoring. This includes evaluating performance metrics, continuous feedback loops, and model retraining when necessary.
+Q: What role did you play in the development of the Customer Support Query chatbot?
+A: I played a key role in developing the Customer Support Query chatbot by implementing the RAG with Llama2-7B-Chat LLM model and deploying the quantized model as an API for production use.
+Q: Can you discuss your experience with AWS services in the context of your projects at Simpragma Solutions?
+A: At Simpragma Solutions, I used AWS services for instance creation, network-level rule setup, server deployment, and storage integration. This included configuring static IP assignments, setting up S3 storage, and managing multi-channel interactions.
+Q: How did you contribute to making the voice bot architecture scalable?
+A: I contributed to making all components of the voice bot architecture scalable by implementing modular design principles, microservices architecture, and containerization using technologies like Docker and Kubernetes.
+At Capgemini:
+Q: What was the scope of the Backend Spring Boot Java Application you built for the Health Care Diagnostic Centre at Capgemini?
+A: The Backend Spring Boot Java Application I built for the Health Care Diagnostic Centre at Capgemini facilitated patient data management, appointment scheduling, and diagnostic report generation.
+Q: How did you design the demo Web Page using IBM BPM at Capgemini?
+A: I designed the demo Web Page using IBM BPM by integrating BPMN (Business Process Model and Notation) elements to showcase the functionalities of the BPM platform for business process automation.
+Q: Can you discuss your experience working in a team at Capgemini?
+A: At Capgemini, I collaborated with team members to define project requirements, design solutions, and implement features. I actively participated in agile ceremonies such as sprint planning, daily stand-ups, and retrospective meetings.
+Q: What challenges did you face during your time at Capgemini and how did you overcome them?
+A: One challenge I faced at Capgemini was managing tight deadlines while ensuring the quality of deliverables. To overcome this, I prioritized tasks, communicated effectively with stakeholders, and utilized agile methodologies for iterative development and feedback.
+
+

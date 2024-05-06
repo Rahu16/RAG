@@ -1,0 +1,16 @@
+langchain==0.1.17
+langchain-community==0.0.36
+chromadb==0.5.0
+#python_dotenv==1.0.0
+pypdf==3.15.4
+sentence-transformers==2.2.2
+#faiss-cpu==1.7.4
+#ctransformers==0.2.26
+#CT_CUBLAS=1 pip install ctransformers --no-binary ctransformers
+fastapi==0.95.2
+fastapi-pagination==0.12.9
+uvicorn==0.13.4
+Werkzeug==2.0.2
+itsdangerous==2.0.1
+typing_extensions==4.6.0
+pydantic==1.10.8
