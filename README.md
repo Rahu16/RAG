@@ -43,8 +43,13 @@ Now lets talk about the flow of the applcation. The flow of the application is g
 
 13. Once a session is completed, release session cache data with terminate session api.
 
-This is all about the flow of the applications. You can find the end to end architecture of this application [here](https://github.com/Rahu16/RAG/blob/master/RAG_Architectire.drawio.png)
+This is all about the flow of the applications. You can find the end to end architecture of this application below
+![Architecture Diagram](https://github.com/Rahu16/RAG/blob/master/RAG_Architectire.drawio.png)
 
+
+***Here you can find a video link demostration of the entire application***
+
+![Video Document](https://github.com/Rahu16/RAG/blob/master/video_documentation)
 
 
 ## How To RUN the Application

@@ -5,9 +5,9 @@ services:
     container_name: RAG_QNA
     restart: always
     environment:
-      - LLM_TYPE: Ollama_mistral:latest
-      - OPENAI_API_KEY: None
-      - OLLAMA_BASE_URL: http://ollama-container:11434
+      LLM_TYPE: Ollama_mistral:latest
+      OPENAI_API_KEY: None
+      OLLAMA_BASE_URL: http://ollama-container:11434
     ports:
       - 8500:8500
   ollama-container:
